@@ -1,0 +1,12 @@
+#summary Updates on the project.
+
+===Friday 12/06/09===
+Start of this project. An early version will appear online soon.
+
+Some development screenshots:
+
+http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_12-06-09_1.png
+
+http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_12-06-09_2.png
+
+Note: Eventually the grey area at the bottom of the interface should provide a preview of the panel.
