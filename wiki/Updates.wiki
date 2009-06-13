@@ -16,12 +16,6 @@ Today's updates:
   * Added toolbar
   * Added actions for New, Save, Save As, Refresh and Quit
 
-To do:
-  * Implement panel preview
-  * Allow creation of different "backgrounds"
-  * Change selection of background ID to combobox
-  * Allow users to import a config file
-
 Added more development screenshots.
 
 =Version 0.01=
