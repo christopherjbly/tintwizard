@@ -14,7 +14,7 @@ I really like tint2 and also like to change the appearance of my desktop frequen
 
 =Where can I get it?=
 
-Currently there are no downloads available, but I am working hard and hope to have an early version up soon!
+[http://code.google.com/p/tintwizard/downloads/list Here]
 
 =Can I help?=
 
