@@ -1,4 +1,5 @@
 #summary Navigate the tintwizard wiki
 
 [http://code.google.com/p/tintwizard/wiki/Updates Updates]
+
 [http://code.google.com/p/tintwizard/wiki/Screenshots Screenshots]
