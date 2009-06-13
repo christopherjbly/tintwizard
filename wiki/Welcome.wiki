@@ -1,6 +1,8 @@
 #summary Welcome to the tintwizard wiki!
 #labels Featured
 
+<wiki:toc max_depth="1" />
+
 =What is tintwizard?=
 
 I have created tintwizard to provide an easy way to produce configs for the popular lightweight panel replacement [http://code.google.com/p/tint2/ tint2]. By changing appearance settings through an easy to use interface, users will be able to automatically generate a config file for tint2 and even preview what the panel should look like.
