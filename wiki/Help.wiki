@@ -8,6 +8,9 @@
   * [http://www.pygtk.org/downloads.html PyGTK 2.x]
 
 =Using tintwizard=
+==How do I run tintwizard?==
+Please read the README file in the archive which you downloaded.
+
 ==What does _option_ do?==
 Please read the [http://code.google.com/p/tint2/wiki/Configure tint2 configuration guide] for in depth information on what everything does.
 
