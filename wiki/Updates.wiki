@@ -20,6 +20,10 @@ Today's updates:
   * Selecting the Help menu item now uses the default web browser to open the Help wiki page
   * If the user quits before saving the file, the user is asked if they would like to save first
 
+Bugfixes:
+  * Color buttons were sometimes returning #RGB or #RRRRGGGGBBBB hex values and tint2 only works with #RRGGBB. Fixed this by manually converting (r, g, b) to #RRGGBB.
+  * Default background id updated from 0 to 1
+
 Added more development screenshots.
 
 =Version 0.01=
