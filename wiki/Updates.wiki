@@ -13,8 +13,11 @@ Today's updates:
   * Updated Panel and Task options to comply with the most recent version of tint2 (2.0.7-beta2)
   * Config file can now be saved
   * Added menu
-  * Added toolbar
-  * Added actions for New, Save, Save As, Refresh and Quit
+  * Moved toolbar to top of interface.
+  * Redesigned toolbar.
+  * Added actions for New, Save, Save As, Refresh and Quit menu items
+  * Added the About dialog
+  * Selecting the Help menu item now uses the default web browser to open the Help wiki page
 
 Added more development screenshots.
 
