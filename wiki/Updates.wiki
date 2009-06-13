@@ -19,6 +19,7 @@ Today's updates:
   * Added the About dialog
   * Selecting the Help menu item now uses the default web browser to open the Help wiki page
   * If the user quits before saving the file, the user is asked if they would like to save first
+  * User can now add as many background styles as they like
 
 Bugfixes:
   * Color buttons were sometimes returning #RGB or #RRRRGGGGBBBB hex values and tint2 only works with #RRGGBB. Fixed this by manually converting (r, g, b) to #RRGGBB.
