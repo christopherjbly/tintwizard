@@ -1,6 +1,6 @@
 #summary See tintwizard in action.
 
-<gallery Caption="example">
+<wiki:gallery Caption="example">
 Image:http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_12-06-09_1.png|Version 0.01
 Image:http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_12-06-09_2.png|Version 0.01
 </gallery>
