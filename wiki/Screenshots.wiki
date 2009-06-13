@@ -1,4 +1,5 @@
 #summary See tintwizard in action.
+#labels Featured
 
 Click thumbnails for full size screenshot.
 
