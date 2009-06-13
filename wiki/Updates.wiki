@@ -5,7 +5,9 @@
 
 =Version 0.02=
 ==13th June 2009==
-Today's updates:
+Uploaded version 0.02 - see [http://code.google.com/p/tintwizard/downloads/list downloads] page.
+
+Changelog:
   * Added options for:
     # Battery applet
     # Systray
