@@ -1,7 +1,7 @@
 #summary Get help with using tintwizard.
 #labels Featured
 
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="3" />
 
 =Installation Requirements=
   * [http://www.python.org/download/ Python 2.x]
