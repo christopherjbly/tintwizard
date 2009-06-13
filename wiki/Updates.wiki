@@ -14,6 +14,7 @@ To do:
   * Allow creation of different "backgrounds"
   * Change selection of background ID to combobox
   * Add menus & menu items
+  * Allow users to import a config file
 
 ===Friday 12/06/09===
 Start of this project. An early version will appear online soon.
