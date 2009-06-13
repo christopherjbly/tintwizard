@@ -19,7 +19,7 @@ tint2 -c PATH_TO_CONFIG_FILE
 ==How do I replace the default config?==
 Navigate to _$HOME/.config/tint2_ and replace the file _tint2rc_ with your config file.
 
-==Feature Requests==
+==How do I suggest new features?==
 If you would like to suggest a new feature for tintwizard, please file a [http://code.google.com/p/tintwizard/issues/entry feature request].
 
 ==How do I report bugs?==
