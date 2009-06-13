@@ -8,12 +8,14 @@ Today's updates:
     # Taskbar
   * Updated Panel and Task options to comply with the most recent version of tint2 (2.0.7-beta2)
   * Config file can now be saved
+  * Added menu
+  * Added toolbar
+  * Added actions for New, Save, Save As, Refresh and Quit
 
 To do:
   * Implement panel preview
   * Allow creation of different "backgrounds"
   * Change selection of background ID to combobox
-  * Add menus & menu items
   * Allow users to import a config file
 
 ===Friday 12/06/09===
