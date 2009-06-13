@@ -1,9 +1,10 @@
 #summary Updates on the project.
 #labels Featured
 
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="2" />
 
-=Saturday 13th June 2009 - Version 0.02=
+=Version 0.02=
+==13th June 2009==
 Today's updates:
   * Added options for:
     # Battery applet
@@ -23,7 +24,8 @@ To do:
 
 Added more development screenshots.
 
-=Friday 12th June 2009 - Version 0.01=
+=Version 0.01=
+==12th June 2009==
 Project start date. An interface prototype has been produced with limited ability to generate configs.
 
 Added screenshots to the gallery.
