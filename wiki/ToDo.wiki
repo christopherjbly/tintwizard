@@ -2,6 +2,5 @@
 
   * Panel preview
   * Open existing config
-  * Allow user-created "backgrounds"
   * Change background ID selection to combo-box
   * Add a more comprehensive help section
