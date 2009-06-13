@@ -1,4 +1,5 @@
   * [http://code.google.com/p/tintwizard/wiki/Welcome Home]
     * [http://code.google.com/p/tintwizard/wiki/Updates Updates]
     * [http://code.google.com/p/tintwizard/wiki/Screenshots Screenshots]
+    * [http://code.google.com/p/tintwizard/wiki/Help Help]
     * [http://code.google.com/p/tintwizard/wiki/ToDo To Do list]
