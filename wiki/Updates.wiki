@@ -3,7 +3,7 @@
 
 <wiki:toc max_depth="1" />
 
-=Saturday 13/06/09=
+=Saturday 13th June 2009 - Version 0.02=
 Today's updates:
   * Added options for:
     # Battery applet
@@ -23,7 +23,7 @@ To do:
 
 Added more development screenshots.
 
-=Friday 12/06/09=
+=Friday 12th June 2009 - Version 0.01=
 Project start date. An interface prototype has been produced with limited ability to generate configs.
 
 Added screenshots to the gallery.
