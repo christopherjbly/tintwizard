@@ -1,7 +1,9 @@
 #summary See tintwizard in action.
 
 ====Version 0.02====
-<a href="http://s24.photobucket.com/albums/c39/Spriteh/tintwizard/?action=view&current=tintwizard_ss_13-06-09_2.png" target="_blank"><img src="http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/th_tintwizard_ss_13-06-09_2.png" border="0" alt="Photobucket" ></a>
+<a href="http://s24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_13-06-09_2.png" target="_blank"><img src="http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_13-06-09_2.png" /></a>
+
+<a href="http://s24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_13-06-09_1.png" target="_blank"><img src="http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/th_tintwizard_ss_13-06-09_1.png" /></a>
 
 ====Version 0.01====
 
