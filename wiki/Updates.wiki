@@ -9,6 +9,8 @@ Not yet uploaded.
 
 Changelog:
   * Config files can be imported
+  * Updated labels with some hints
+  * Moved task spacing from 'Taskbar' to 'Tasks' tab
 
 Bugfixes:
   * Program would still quit if you decided to "Cancel"
