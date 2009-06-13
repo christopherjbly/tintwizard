@@ -1,8 +1,8 @@
 #summary Updates on the project.
 
-<wiki:toc max_depth="3" />
+<wiki:toc max_depth="1" />
 
-===Saturday 13/06/09===
+=Saturday 13/06/09=
 Today's updates:
   * Added options for:
     # Battery applet
@@ -20,13 +20,9 @@ To do:
   * Change selection of background ID to combobox
   * Allow users to import a config file
 
-===Friday 12/06/09===
-Start of this project. An early version will appear online soon.
+Added more development screenshots.
 
-Some development screenshots:
+=Friday 12/06/09=
+Project start date. An interface prototype has been produced with limited ability to generate configs.
 
-http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_12-06-09_1.png
-
-http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_12-06-09_2.png
-
-Note: Eventually the grey area at the bottom of the interface should provide a preview of the panel.
+Added screenshots to the gallery.
