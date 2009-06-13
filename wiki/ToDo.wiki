@@ -2,5 +2,4 @@
 
   * Panel preview
   * Open existing config
-  * Change background ID selection to combo-box
   * Add a more comprehensive help section
