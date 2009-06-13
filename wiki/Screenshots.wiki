@@ -1,6 +1,7 @@
 #summary See tintwizard in action.
 
+===Version 0.01===
+
 http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_12-06-09_1.png
-Version 0.01
+
 http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_12-06-09_2.png
-Version 0.01
