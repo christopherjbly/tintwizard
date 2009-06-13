@@ -1,5 +1,20 @@
 #summary Updates on the project.
 
+===Saturday 13/06/09===
+Today's updates:
+  * Added options for:
+    # Battery applet
+    # Systray
+    # Taskbar
+  * Updated Panel and Task options to comply with the most recent version of tint2 (2.0.7-beta2)
+  * Config file can now be saved
+
+To do:
+  * Implement panel preview
+  * Allow creation of different "backgrounds"
+  * Change selection of background ID to combobox
+  * Add menus & menu items
+
 ===Friday 12/06/09===
 Start of this project. An early version will appear online soon.
 
