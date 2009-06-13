@@ -1,6 +1,6 @@
 #summary Updates on the project.
 
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="3" />
 
 ===Saturday 13/06/09===
 Today's updates:
