@@ -30,3 +30,50 @@ If you would like to suggest a new feature for tintwizard, please file a [http:/
 
 ==How do I report bugs?==
 File bugs [http://code.google.com/p/tintwizard/issues/entry here]. Thank you for your support by reporting bugs.
+
+=Configuring tintwizard=
+==Where is the config file located?==
+The config file is tintwizard.conf, in the same folder as tintwizard.py
+
+==Font==
+The option _font_ is formatted like so:
+{{{font = name style size}}}
+For example:
+{{{font = Sans Bold 12}}}
+Alternatively, to not set a default font:
+{{{font = null}}}
+
+==Background Color==
+The option _bgColor_ is formatted like so:
+{{{bgColor = #rrggbb}}}
+For example:
+{{{bgColor = #ff0000}}}
+Alternatively, to not set a default background color:
+{{{bgColor = null}}}
+
+==Foreground Color==
+The option _fgColor_ is formatted like so:
+{{{fgColor = #rrggbb}}}
+For example:
+{{{fgColor = #ff0000}}}
+Alternatively, to not set a default foreground color:
+{{{fgColor = null}}}
+
+==Border Color==
+The option _borderColor_ is formatted like so:
+{{{borderColor = #rrggbb}}}
+For example:
+{{{borderColor = #ff0000}}}
+Alternatively, to not set a default foreground color:
+{{{borderColor = null}}}
+
+==Background Count==
+===What does this do?===
+This sets the default number of background styles to define.
+===Format===
+The option _bgCount_ is formatted like so:
+{{{bgCount = number}}}
+For example:
+{{{bgCount = 3}}}
+Alternatively, to not set a default background count:
+{{{bgCount = null}}}
