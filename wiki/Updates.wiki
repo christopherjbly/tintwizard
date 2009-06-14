@@ -3,6 +3,9 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.05 (in development)=
+I've decided not to add a panel preview to this project. As useful a feature as it would be, I just can't be bothered. If this ever gets popular enough and people _do_ want this feature then maybe I'll change my mind.
+
 =Version 0.04=
 Changelog:
   * A configuration file can now be used to set default values for fonts and colors. The user cannot yet modify this through the program.
