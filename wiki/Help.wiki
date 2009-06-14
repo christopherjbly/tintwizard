@@ -1,7 +1,7 @@
 #summary Get help with using tintwizard.
 #labels Featured
 
-<wiki:toc max_depth="3" />
+<wiki:toc max_depth="2" />
 
 =Installation Requirements=
   * [http://www.python.org/download/ Python 2.x]
@@ -37,43 +37,73 @@ The config file is tintwizard.conf, in the same folder as tintwizard.py
 
 ==Font==
 The option _font_ is formatted like so:
-{{{font = name style size}}}
+{{{
+font = name style size
+}}}
 For example:
-{{{font = Sans Bold 12}}}
+{{{
+font = Sans Bold 12
+}}}
 Alternatively, to not set a default font:
-{{{font = null}}}
+{{{
+font = null
+}}}
 
 ==Background Color==
 The option _bgColor_ is formatted like so:
-{{{bgColor = #rrggbb}}}
+{{{
+bgColor = #rrggbb
+}}}
 For example:
-{{{bgColor = #ff0000}}}
+{{{
+bgColor = #ff0000
+}}}
 Alternatively, to not set a default background color:
-{{{bgColor = null}}}
+{{{
+bgColor = null
+}}}
 
 ==Foreground Color==
 The option _fgColor_ is formatted like so:
-{{{fgColor = #rrggbb}}}
+{{{
+fgColor = #rrggbb
+}}}
 For example:
-{{{fgColor = #ff0000}}}
+{{{
+fgColor = #ff0000
+}}}
 Alternatively, to not set a default foreground color:
-{{{fgColor = null}}}
+{{{
+fgColor = null
+}}}
 
 ==Border Color==
 The option _borderColor_ is formatted like so:
-{{{borderColor = #rrggbb}}}
+{{{
+borderColor = #rrggbb
+}}}
 For example:
-{{{borderColor = #ff0000}}}
+{{{
+borderColor = #ff0000
+}}}
 Alternatively, to not set a default foreground color:
-{{{borderColor = null}}}
+{{{
+borderColor = null
+}}}
 
 ==Background Count==
 ===What does this do?===
 This sets the default number of background styles to define.
 ===Format===
 The option _bgCount_ is formatted like so:
-{{{bgCount = number}}}
+{{{
+bgCount = number
+}}}
 For example:
-{{{bgCount = 3}}}
+{{{
+bgCount = 3
+}}}
 Alternatively, to not set a default background count:
-{{{bgCount = null}}}
+{{{
+bgCount = null
+}}}
