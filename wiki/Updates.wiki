@@ -3,8 +3,18 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.04=
+Changelog:
+  * A configuration file can now be used to set default values for fonts and colors. The user cannot yet modify this through the program.
+  * Added a "Change All Fonts" option which changes all font types at once.
+  * Opening / Saving a file _should_ now remember what directory you were previously in
+
+Bugfixes:
+  * Pressing "Cancel" on open dialog now closes the dialog
+  * Reset number of backgrounds for new configs
+  * Background opacity now resets
+
 =Version 0.03=
-==14th June 2009==
 Uploaded early version of 0.03.
 
 Changelog:
@@ -17,7 +27,6 @@ Bugfixes:
   * When parsing configs, fonts would not be updated
 
 =Version 0.02=
-==13th June 2009==
 Uploaded version 0.02 - see [http://code.google.com/p/tintwizard/downloads/list downloads] page.
 
 Changelog:
@@ -43,7 +52,6 @@ Bugfixes:
 Added more development screenshots.
 
 =Version 0.01=
-==12th June 2009==
 Project start date. An interface prototype has been produced with limited ability to generate configs.
 
 Added screenshots to the gallery.
