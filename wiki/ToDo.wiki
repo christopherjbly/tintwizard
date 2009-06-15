@@ -1,4 +1,0 @@
-#summary A list of features still to be added to tintwizard.
-
-  * Panel preview
-  * Add a more comprehensive help section
