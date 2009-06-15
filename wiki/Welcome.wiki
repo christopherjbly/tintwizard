@@ -1,5 +1,4 @@
 #summary Welcome to the tintwizard wiki!
-#labels Featured
 
 <wiki:toc max_depth="1" />
 
