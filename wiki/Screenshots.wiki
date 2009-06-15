@@ -4,6 +4,15 @@
 
 Click thumbnails for full size screenshot.
 
+=Version 0.1.0=
+||
+<a href="http://s24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_v0-1-0_1.png" target="_blank"><img src="http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/th_tintwizard_ss_v0-1-0_1.png" /></a>
+||
+<a href="http://s24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_v0-1-0_2.png" target="_blank"><img src="http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/th_tintwizard_ss_v0-1-0_2.png" /></a>
+||
+<a href="http://s24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_v0-1-0_3.png" target="_blank"><img src="http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/th_tintwizard_ss_v0-1-0_3.png" /></a>
+||
+
 =Version 0.03=
 ||
 <a href="http://s24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_14-06-09_1.png" target="_blank"><img src="http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/th_tintwizard_ss_14-06-09_1.png" /></a>
