@@ -3,6 +3,26 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.1.0=
+I'm excited to announce that this project has reached a mini-milestone for me. My initial aim for this project was to create something which could create configs for tint2 and then apply them to tint2 with the click of a button. This version allows the user to do just that.
+
+If anyone experiences any difficulties when using the "Apply Config" option, please let me know - as I've only had a chance to test this on my own computer.
+
+My next aim is to make this as robust as possible. Currently, there is _very_ little error checking happening.
+
+Changelog:
+  * User can now set the default directory in which to open / save configs.
+  * If user has not specified a default directory, the tint2 directory ($HOME/.config/tint2) is used.
+  * Added option "Save As Default Config", to allow the user to save the current config as the default for tint2
+  * Added option "Apply Config" to kill all instances of tint2 then start it again with the new config applied
+  * The program will refuse to run if tint2 is not installed.
+  * Appearance change: all labels are now left-justified.
+
+Bugfixes:
+  * Fixed problem with tintwizard.conf file being misplaced.
+  * When a background style is removed, any properties currently using this will have their background id reset to 0
+  * "Cancel" button on open dialog now acts accordingly
+
 =Version 0.04b=
 I've decided not to add a panel preview to this project. As useful a feature as it would be, I just can't be bothered. If this ever gets popular enough and people _do_ want this feature then maybe I'll change my mind.
 
