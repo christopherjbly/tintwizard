@@ -1,6 +1,6 @@
 #summary Examples of configs produced by tintwizard.
 
-<a href="http://s24.photobucket.com/albums/c39/Spriteh/tintwizard/examples/?action=view&current=tintwizard_example_v0-1-0_2.png" target="_blank"><img src="http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/examples/th_tintwizard_example_v0-1-0_2.png" border="0" alt="Photobucket" ></a>
+<a href="http://s24.photobucket.com/albums/c39/Spriteh/tintwizard/examples/tintwizard_example_v0-1-0_2.png" target="_blank"><img src="http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/examples/th_tintwizard_example_v0-1-0_2.png" /></a>
 
 Click thumbnail for full size screenshot.
 
