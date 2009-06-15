@@ -1,5 +1,4 @@
 #summary Get help with using tintwizard.
-#labels Featured
 
 <wiki:toc max_depth="2" />
 
