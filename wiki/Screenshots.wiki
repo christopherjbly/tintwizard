@@ -8,9 +8,9 @@ Click thumbnails for full size screenshot.
 ||
 <a href="http://lh3.ggpht.com/_1c25_kG_EAo/SjjD0IHi5pI/AAAAAAAAANU/ZrjnSAPA4EU/tintwizard_ss_v0-1-0_1.png" target="_blank"><img src="http://lh3.ggpht.com/_1c25_kG_EAo/SjjD0IHi5pI/AAAAAAAAANU/ZrjnSAPA4EU/tintwizard_ss_v0-1-0_1.png" width="223" height="114" /></a>
 ||
-<a href="http://s24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_v0-1-0_2.png" target="_blank"><img src="http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/th_tintwizard_ss_v0-1-0_2.png" /></a>
+<a href="http://lh6.ggpht.com/_1c25_kG_EAo/SjjD0ZRQ8hI/AAAAAAAAANY/FDX0UIGR9No/tintwizard_ss_v0-1-0_2.png" target="_blank"><img src="http://lh6.ggpht.com/_1c25_kG_EAo/SjjD0ZRQ8hI/AAAAAAAAANY/FDX0UIGR9No/tintwizard_ss_v0-1-0_2.png" width="130" height="91" /></a>
 ||
-<a href="http://s24.photobucket.com/albums/c39/Spriteh/tintwizard/tintwizard_ss_v0-1-0_3.png" target="_blank"><img src="http://i24.photobucket.com/albums/c39/Spriteh/tintwizard/th_tintwizard_ss_v0-1-0_3.png" /></a>
+<a href="http://lh6.ggpht.com/_1c25_kG_EAo/SjjD0Tu8WXI/AAAAAAAAANc/GEmq9NI2Kwo/tintwizard_ss_v0-1-0_3.png" target="_blank"><img src="http://lh6.ggpht.com/_1c25_kG_EAo/SjjD0Tu8WXI/AAAAAAAAANc/GEmq9NI2Kwo/tintwizard_ss_v0-1-0_3.png" width="223" height="114" /></a>
 ||
 
 =Version 0.03=
