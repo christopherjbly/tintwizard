@@ -3,6 +3,10 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.1.2=
+Bugfix:
+  * Fixed problem where config was sometimes created in the wrong dir, depending on where the app was launched from.
+
 =Version 0.1.1=
 Changelog:
   * Added option to allow user to open the default tint2 config
