@@ -5,7 +5,7 @@
 
 =Version 0.1.3b=
 Bugfix:
-  * [http://code.google.com/p/tintwizard/issues/detail?id=27 Increased arbitrary clock format string limit from to 50 characters.]
+  * [http://code.google.com/p/tintwizard/issues/detail?id=27 Increased arbitrary clock format string limit to 50 characters.]
 
 =Version 0.1.3=
 Changelog:
