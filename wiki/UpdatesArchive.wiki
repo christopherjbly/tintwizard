@@ -1,0 +1,80 @@
+#summary Archive of older updates on the project.
+
+<wiki:toc max_depth="2" />
+
+=Version 0.1.0=
+I'm excited to announce that this project has reached a mini-milestone for me. My initial aim for this project was to create something which could create configs for tint2 and then apply them to tint2 with the click of a button. This version allows the user to do just that.
+
+If anyone experiences any difficulties when using the "Apply Config" option, please let me know - as I've only had a chance to test this on my own computer.
+
+My next aim is to make this as robust as possible. Currently, there is _very_ little error checking happening.
+
+Changelog:
+  * User can now set the default directory in which to open / save configs.
+  * If user has not specified a default directory, the tint2 directory ($HOME/.config/tint2) is used.
+  * Added option "Save As Default Config", to allow the user to save the current config as the default for tint2
+  * Added option "Apply Config" to kill all instances of tint2 then start it again with the new config applied
+  * The program will refuse to run if tint2 is not installed.
+  * Appearance change: all labels are now left-justified.
+
+Bugfixes:
+  * Fixed problem with tintwizard.conf file being misplaced.
+  * When a background style is removed, any properties currently using this will have their background id reset to 0
+  * "Cancel" button on open dialog now acts accordingly
+  * Fixed a couple of syntax errors
+  * Fixed issue where tint2 process ids were being incorrectly parsed
+
+=Version 0.04b=
+I've decided not to add a panel preview to this project. As useful a feature as it would be, I just can't be bothered. If this ever gets popular enough and people _do_ want this feature then maybe I'll change my mind.
+
+Bugfixes:
+  * Fixed problem with config being placed in home directory rather than location of tintwizard.py
+
+=Version 0.04=
+Changelog:
+  * A configuration file can now be used to set default values for fonts and colors. The user cannot yet modify this through the program.
+  * Added a "Change All Fonts" option which changes all font types at once.
+  * Opening / Saving a file _should_ now remember what directory you were previously in
+
+Bugfixes:
+  * Pressing "Cancel" on open dialog now closes the dialog
+  * Reset number of backgrounds for new configs
+  * Background opacity now resets
+
+=Version 0.03=
+Changelog:
+  * Config files can be imported
+  * Updated labels with some hints
+  * Moved task spacing from 'Taskbar' to 'Tasks' tab
+
+Bugfixes:
+  * Program would still quit if you decided to "Cancel"
+  * When parsing configs, fonts would not be updated
+
+=Version 0.02=
+Changelog:
+  * Added options for:
+    # Battery applet
+    # Systray
+    # Taskbar
+  * Updated Panel and Task options to comply with the most recent version of tint2 (2.0.7-beta2)
+  * Config file can now be saved
+  * Added menu
+  * Moved toolbar to top of interface.
+  * Redesigned toolbar.
+  * Added actions for New, Save, Save As, Refresh and Quit menu items
+  * Added the About dialog
+  * Selecting the Help menu item now uses the default web browser to open the Help wiki page
+  * If the user quits before saving the file, the user is asked if they would like to save first
+  * User can now add as many background styles as they like
+  * Changed background ID selection to combo-box with all available styles
+
+Bugfixes:
+  * Color buttons were sometimes returning #RGB or #RRRRGGGGBBBB hex values and tint2 only works with #RRGGBB. Fixed this by manually converting (r, g, b) to #RRGGBB.
+
+Added more development screenshots.
+
+=Version 0.01=
+Project start date. An interface prototype has been produced with limited ability to generate configs.
+
+Added screenshots to the gallery.
