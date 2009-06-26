@@ -3,6 +3,15 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.2=
+Changelog:
+  * Added statusbar which displays filename of config being edited, and alerts user when an unsaved change has been made.
+  * Code refactored and documentation slightly improved.
+
+Bugfixes:
+  * Fixed errors reading from tintwizard.conf
+  * Fixed problem validating typed hex values
+
 =Version 0.1.3b=
 Bugfix:
   * [http://code.google.com/p/tintwizard/issues/detail?id=27 Increased arbitrary clock format string limit to 50 characters.]
