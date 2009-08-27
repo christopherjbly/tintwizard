@@ -11,12 +11,18 @@ You do not have to "install" tintwizard. Just extract the files to _any_ directo
 
 ==How do I run tintwizard?==
   # Place tintwizard.py and tintwizard.conf in any folder.
-  #  * Double-click on the file to run
-    *In a terminal, navigate to the folder where tintwizard.py is,
+  #
+    Double-click on the file to run
+    OR
+    In a terminal, navigate to the folder where tintwizard.py is,
         and type:
-            ./tintwizard.py
+            {{{
+./tintwizard.py
+}}}
         or:
-            python tintwizard.py
+            {{{
+python tintwizard.py
+}}}
   # If neither of these steps work, please see "cannot run", below.
 
 ==How do I add tintwizard to Openbox menus?==
