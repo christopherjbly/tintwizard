@@ -3,7 +3,7 @@
 
 <wiki:toc max_depth="2" />
 
-=Version 0.2.1=
+=Version 0.2.2=
 Changelog:
   * Added "wm_menu" option
   * Refactored some code
