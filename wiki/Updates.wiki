@@ -3,6 +3,16 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.2.3=
+Changelog:
+ * Removed "single_monitor" option from "taskbar_mode"
+ * Updated options available for "panel_pos" to include "horizontal" / "vertical"
+ * Changed default clock2 format from "%A %d %B" to "%a %d %b"
+ * Replaced "task_width" with "task_maximum_size"
+ * The panel size label gets updated to either "Size (width, height)" or "Size (height, width)" depending on the orientation chosen.
+ * Added link to http://code.google.com/p/tint2/ in README
+ * Added the options "clock_lclick_command" and "clock_rclick_command"
+
 =Version 0.2.2=
 Changelog:
   * Added "wm_menu" option
@@ -25,16 +35,6 @@ Changelog:
 Bugfixes:
   * Fixed errors reading from tintwizard.conf
   * Fixed problem validating typed hex values
-
-=Version 0.1.3b=
-Bugfix:
-  * [http://code.google.com/p/tintwizard/issues/detail?id=27 Increased arbitrary clock format string limit to 50 characters.]
-
-=Version 0.1.3=
-Changelog:
-  * When generating configs, a default value is used if a text entry field is left empty
-  * Added option to set maximum number of blinks (new in tint2.0.7-beta3)
-  * Colors are fetched from the color-select button rather than accompanying text field - in case the user deletes the hex value
 
 =Older Updates=
 [http://code.google.com/p/tintwizard/wiki/UpdatesArchive Archive]
