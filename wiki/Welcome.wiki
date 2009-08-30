@@ -16,4 +16,4 @@ I really like tint2 and also like to change the appearance of my desktop frequen
 
 =Can I help?=
 
-As soon as I have made some downloads available, I would love it if you could help by [http://code.google.com/p/tintwizard/issues/entry reporting problems] or even suggesting new features.
+I would love it if you could help by [http://code.google.com/p/tintwizard/issues/entry reporting problems] or even suggesting new features.
