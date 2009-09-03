@@ -5,6 +5,10 @@
 
 =Version 0.2.4=
 Changelog:
+ * Added 'systray_sort' option
+
+=Version 0.2.4=
+Changelog:
  * Added support for 'taskbar_active_background_id', 'task_icon_hsb' and 'task_active_icon_hsb'.
  * Added mouse actions 'maximize_restore', 'desktop_left' and 'desktop_right'.
  * Grouped all 'Task' related tabs under a new notebook.
