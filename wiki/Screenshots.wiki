@@ -5,6 +5,13 @@
 
 Click thumbnails for full size screenshot.
 
+=Version 0.2.4=
+||
+<a href="http://lh4.ggpht.com/_1c25_kG_EAo/Sp-A4WiHe-I/AAAAAAAAAnM/KED9n7wxuWA/tintwizard_ss_v0-2-4_1.png" target="_blank"><img src="http://lh4.ggpht.com/_1c25_kG_EAo/Sp-A4WiHe-I/AAAAAAAAAnM/KED9n7wxuWA/tintwizard_ss_v0-2-4_1.png" width="223" height="118" /></a>
+||
+<a href="http://lh5.ggpht.com/_1c25_kG_EAo/Sp-A4ghLN2I/AAAAAAAAAnQ/twtPq_5WgYQ/tintwizard_ss_v0-2-4_2.png" target="_blank"><img src="http://lh5.ggpht.com/_1c25_kG_EAo/Sp-A4ghLN2I/AAAAAAAAAnQ/twtPq_5WgYQ/tintwizard_ss_v0-2-4_2.png" width="223" height="117" /></a>
+||
+
 =Version 0.2.3=
 ||
 <a href="http://lh6.ggpht.com/_1c25_kG_EAo/SppMNQ9-80I/AAAAAAAAAnI/VNRqoe_3ZIU/tintwizard_ss_v0-2-3_2.png" target="_blank"><img src="http://lh6.ggpht.com/_1c25_kG_EAo/SppMNQ9-80I/AAAAAAAAAnI/VNRqoe_3ZIU/tintwizard_ss_v0-2-3_2.png" width="223" height="118" /></a>
