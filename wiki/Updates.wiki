@@ -3,7 +3,7 @@
 
 <wiki:toc max_depth="2" />
 
-=Version 0.2.4=
+=Version 0.2.5=
 Changelog:
  * Added 'systray_sort' option
 
