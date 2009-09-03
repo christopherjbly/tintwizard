@@ -3,6 +3,16 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.2.4=
+Changelog:
+ * Added support for 'taskbar_active_background_id', 'task_icon_hsb' and 'task_active_icon_hsb'.
+ * Added mouse actions 'maximize_restore', 'desktop_left' and 'desktop_right'.
+ * Grouped all 'Task' related tabs under a new notebook.
+ * User can disable 'taskbar_active_background_id' option via checkbox
+
+Bugfixes:
+ * Fixed problem where colorbuttons were defaulting to Black rather than the colour set by fgColor in tintwizard.conf
+
 =Version 0.2.3=
 Changelog:
  * Removed "single_monitor" option from "taskbar_mode"
