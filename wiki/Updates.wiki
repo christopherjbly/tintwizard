@@ -3,9 +3,15 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.2.6=
+Changelog:
+ * Added 'panel_dock' option.
+ * Split the 'Clock' tab into 2 tabs; one for format and one for other clock settings.
+ * Added some formatting examples for the clock under one of the clock tabs.
+
 =Version 0.2.5=
 Changelog:
- * Added 'systray_sort' option
+ * Added 'systray_sort' option.
 
 =Version 0.2.4=
 Changelog:
