@@ -7,6 +7,7 @@
 Changelog:
  * Changed icon hue to alpha.
  * Added limits for hue, sat, brightness to the label widgets.
+ * Fixed wrong default value being used for some icon settings. Doesn't really matter, since all are set to 0 anyway.
 
 =Version 0.2.7=
 Changelog:
