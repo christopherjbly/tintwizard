@@ -3,6 +3,11 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.2.8=
+Changelog:
+ * Changed icon hue to alpha.
+ * Added limits for hue, sat, brightness to the label widgets.
+
 =Version 0.2.7=
 Changelog:
  * Added options for tint2 tooltip support.
