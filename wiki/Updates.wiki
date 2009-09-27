@@ -3,6 +3,10 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.2.9=
+Changelog:
+ * Changed systray_sort options (tint2 rev208)
+
 =Version 0.2.8=
 Changelog:
  * Changed icon hue to alpha.
