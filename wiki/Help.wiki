@@ -22,6 +22,7 @@ You do not have to "install" tintwizard. Just extract the files to _any_ directo
 python tintwizard.py
 }}}
   # If neither of these steps work, please see "cannot run", below.
+  # If you have a newer version of tint2 installed, run `tint2conf`.
 
 ==How do I add tintwizard to Openbox menus?==
   # Run obmenu
