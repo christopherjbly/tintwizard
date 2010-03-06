@@ -5,37 +5,16 @@
 
 Click thumbnails for full size screenshot.
 
-=Version 0.2.4=
+=Version 0.3=
 ||
-<a href="http://lh4.ggpht.com/_1c25_kG_EAo/Sp-A4WiHe-I/AAAAAAAAAnM/KED9n7wxuWA/tintwizard_ss_v0-2-4_1.png" target="_blank"><img src="http://lh4.ggpht.com/_1c25_kG_EAo/Sp-A4WiHe-I/AAAAAAAAAnM/KED9n7wxuWA/tintwizard_ss_v0-2-4_1.png" width="223" height="118" /></a>
+<a href="http://lh4.ggpht.com/_1c25_kG_EAo/S5Jngj1DwJI/AAAAAAAAA0Q/7r3YeRPUeAk/tw_0-3_1.png" target="_blank"><img src="http://lh4.ggpht.com/_1c25_kG_EAo/S5Jngj1DwJI/AAAAAAAAA0Q/7r3YeRPUeAk/tw_0-3_1.png" width="206" height="131" /></a>
 ||
-<a href="http://lh5.ggpht.com/_1c25_kG_EAo/Sp-A4ghLN2I/AAAAAAAAAnQ/twtPq_5WgYQ/tintwizard_ss_v0-2-4_2.png" target="_blank"><img src="http://lh5.ggpht.com/_1c25_kG_EAo/Sp-A4ghLN2I/AAAAAAAAAnQ/twtPq_5WgYQ/tintwizard_ss_v0-2-4_2.png" width="223" height="117" /></a>
+<a href="http://lh3.ggpht.com/_1c25_kG_EAo/S5Jng8ot_XI/AAAAAAAAA0U/iFOxYy0TpY4/tw_0-3_2.png" target="_blank"><img src="http://lh3.ggpht.com/_1c25_kG_EAo/S5Jng8ot_XI/AAAAAAAAA0U/iFOxYy0TpY4/tw_0-3_2.png" width="206" height="131" /></a>
 ||
-
-=Version 0.2.3=
-||
-<a href="http://lh6.ggpht.com/_1c25_kG_EAo/SppMNQ9-80I/AAAAAAAAAnI/VNRqoe_3ZIU/tintwizard_ss_v0-2-3_2.png" target="_blank"><img src="http://lh6.ggpht.com/_1c25_kG_EAo/SppMNQ9-80I/AAAAAAAAAnI/VNRqoe_3ZIU/tintwizard_ss_v0-2-3_2.png" width="223" height="118" /></a>
-||
-<a href="http://lh4.ggpht.com/_1c25_kG_EAo/SppMNL5N9uI/AAAAAAAAAnE/yDTq40-K9HQ/s800/tintwizard_ss_v0-2-3_1.png" target="_blank"><img src="http://lh4.ggpht.com/_1c25_kG_EAo/SppMNL5N9uI/AAAAAAAAAnE/yDTq40-K9HQ/s800/tintwizard_ss_v0-2-3_1.png" width="223" height="117" /></a>
+<a href="http://lh5.ggpht.com/_1c25_kG_EAo/S5Jng2mrroI/AAAAAAAAA0Y/OWdCyt_pbOg/tw_0-3_3.png" target="_blank"><img src="http://lh5.ggpht.com/_1c25_kG_EAo/S5Jng2mrroI/AAAAAAAAA0Y/OWdCyt_pbOg/tw_0-3_3.png" width="206" height="131" /></a>
 ||
 
-=Version 0.2=
+<a href="http://lh6.ggpht.com/_1c25_kG_EAo/S5JnhPCveOI/AAAAAAAAA0c/YFQgGXZGUzE/tw_0-3_4.png" target="_blank"><img src="http://lh6.ggpht.com/_1c25_kG_EAo/S5JnhPCveOI/AAAAAAAAA0c/YFQgGXZGUzE/tw_0-3_4.png" width="206" height="131" /></a>
 ||
-<a href="http://lh3.ggpht.com/_1c25_kG_EAo/SkSA56jTE4I/AAAAAAAAAZM/Cz3G9bKI4C8/tintwizard_ss_v0-2_1.png" target="_blank"><img src="http://lh3.ggpht.com/_1c25_kG_EAo/SkSA56jTE4I/AAAAAAAAAZM/Cz3G9bKI4C8/tintwizard_ss_v0-2_1.png" width="198" height="112" /></a>
-||
-
-=Version 0.1.3=
-||
-<a href="http://lh3.ggpht.com/_1c25_kG_EAo/Sj9fcIwjBzI/AAAAAAAAAY0/0Qjff4Im6aY/tintwizard_ss_v0-1-3_2.png" target="_blank"><img src="http://lh3.ggpht.com/_1c25_kG_EAo/Sj9fcIwjBzI/AAAAAAAAAY0/0Qjff4Im6aY/tintwizard_ss_v0-1-3_2.png" width="223" height="118" /></a>
-||
-<a href="http://lh6.ggpht.com/_1c25_kG_EAo/Sj9fcGgWTcI/AAAAAAAAAY4/vJUrjRNBD5E/tintwizard_ss_v0-1-3_1.png" target="_blank"><img src="http://lh6.ggpht.com/_1c25_kG_EAo/Sj9fcGgWTcI/AAAAAAAAAY4/vJUrjRNBD5E/tintwizard_ss_v0-1-3_1.png" width="223" height="117" /></a>
-||
-
-=Version 0.1.0=
-||
-<a href="http://lh3.ggpht.com/_1c25_kG_EAo/SjjD0IHi5pI/AAAAAAAAANU/ZrjnSAPA4EU/tintwizard_ss_v0-1-0_1.png" target="_blank"><img src="http://lh3.ggpht.com/_1c25_kG_EAo/SjjD0IHi5pI/AAAAAAAAANU/ZrjnSAPA4EU/tintwizard_ss_v0-1-0_1.png" width="223" height="114" /></a>
-||
-<a href="http://lh6.ggpht.com/_1c25_kG_EAo/SjjD0ZRQ8hI/AAAAAAAAANY/FDX0UIGR9No/tintwizard_ss_v0-1-0_2.png" target="_blank"><img src="http://lh6.ggpht.com/_1c25_kG_EAo/SjjD0ZRQ8hI/AAAAAAAAANY/FDX0UIGR9No/tintwizard_ss_v0-1-0_2.png" width="130" height="91" /></a>
-||
-<a href="http://lh6.ggpht.com/_1c25_kG_EAo/SjjD0Tu8WXI/AAAAAAAAANc/GEmq9NI2Kwo/tintwizard_ss_v0-1-0_3.png" target="_blank"><img src="http://lh6.ggpht.com/_1c25_kG_EAo/SjjD0Tu8WXI/AAAAAAAAANc/GEmq9NI2Kwo/tintwizard_ss_v0-1-0_3.png" width="223" height="114" /></a>
+<a href="http://lh3.ggpht.com/_1c25_kG_EAo/S5JnhSy3wOI/AAAAAAAAA0g/9agpBqniQl8/tw_0-3_5.png" target="_blank"><img src="http://lh3.ggpht.com/_1c25_kG_EAo/S5JnhSy3wOI/AAAAAAAAA0g/9agpBqniQl8/tw_0-3_5.png" width="180" height="129" /></a>
 ||
