@@ -2,6 +2,30 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.2.7=
+Changelog:
+ * Added options for tint2 tooltip support.
+
+=Version 0.2.6=
+Changelog:
+ * Added 'panel_dock' option.
+ * Split the 'Clock' tab into 2 tabs; one for format and one for other clock settings.
+ * Added some formatting examples for the clock under one of the clock tabs.
+
+=Version 0.2.5=
+Changelog:
+ * Added 'systray_sort' option.
+
+=Version 0.2.4=
+Changelog:
+ * Added support for 'taskbar_active_background_id', 'task_icon_hsb' and 'task_active_icon_hsb'.
+ * Added mouse actions 'maximize_restore', 'desktop_left' and 'desktop_right'.
+ * Grouped all 'Task' related tabs under a new notebook.
+ * User can disable 'taskbar_active_background_id' option via checkbox
+
+Bugfixes:
+ * Fixed problem where colorbuttons were defaulting to Black rather than the colour set by fgColor in tintwizard.conf
+
 =Version 0.2.3=
 Changelog:
  * Removed "single_monitor" option from "taskbar_mode"
