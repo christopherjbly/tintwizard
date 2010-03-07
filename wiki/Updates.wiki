@@ -3,6 +3,10 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.3.1=
+Changelog:
+ * Added 'battery_hide' option.
+
 =Version 0.3=
 Changelog:
  * Added panel autohide options.
