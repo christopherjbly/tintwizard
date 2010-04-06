@@ -68,8 +68,11 @@ If you would like to suggest a new feature for tintwizard, please file a [http:/
 File bugs [http://code.google.com/p/tintwizard/issues/entry here]. Thank you for your support by reporting bugs.
 
 =Configuring tintwizard=
+==What does tintwizard.conf do?==
+This allows you to set default values for several options within tintwizard, such as background and font color. When a new tint2 config is created, these values will be used as default.
+
 ==Where is the config file located?==
-The config file is tintwizard.conf, in the same folder as tintwizard.py
+The config file is tintwizard.conf, in the _$HOME/.config/tint2_ directory.
 
 ==Font==
 The option _font_ is formatted like so:
