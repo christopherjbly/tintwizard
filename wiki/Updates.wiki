@@ -3,6 +3,12 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.3.3=
+Changelog:
+ * Refactored GUI creation code.
+ * Moved tintwizard.conf to $HOME/.config/tint2 by default.
+ * Removed the dir directory for tintwizard.conf; just use tint2 directory by default.
+
 =Version 0.3.1=
 Changelog:
  * Added 'battery_hide' option.
