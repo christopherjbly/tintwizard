@@ -5,6 +5,10 @@
 
 =Version 0.3.3=
 Changelog:
+ * Fixed problem with arguments being passed to tint2 when applying configs.
+
+=Version 0.3.3=
+Changelog:
  * Refactored GUI creation code.
  * Moved tintwizard.conf to $HOME/.config/tint2 by default.
  * Removed the dir directory for tintwizard.conf; just use tint2 directory by default.
