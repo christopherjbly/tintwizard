@@ -3,6 +3,10 @@
 
 <wiki:toc max_depth="2" />
 
+=Version 0.3.4=
+Changelog:
+ * Changed from 'pidof' to 'pgrep' for fetching the process id of tint2.
+
 =Version 0.3.3b=
 Changelog:
  * Fixed problem with arguments being passed to tint2 when applying configs.
